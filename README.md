@@ -1,4 +1,4 @@
-# Ashvin claims ingest tool
+# Claims ingest tool
 
 This is meant to provide a basic example of categorizing faxed documents, with Claude Sonnet 4.5.
 
