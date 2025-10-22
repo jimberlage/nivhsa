@@ -1,0 +1,13 @@
+[project]
+name = "ashvin"
+version = "0.1.0"
+description = "Categorizes DME files"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiofiles",
+    "anthropic",
+    "markitdown[all]",
+    "pdf2image>=1.17.0",
+    "pydantic>=2.12.3",
+]
